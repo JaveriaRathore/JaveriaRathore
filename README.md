@@ -73,14 +73,23 @@ Here are some areas represented in my data analytics portfolio:
 
 ---
 
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaveriaRathore&show_icons=true&theme=midnight-purple&hide_border=true" alt="Javeria's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaveriaRathore&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaveriaRathore&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaveriaRathore&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Programming Languages"/>
 </p>
 
 <p align="center">
