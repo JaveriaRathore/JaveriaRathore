@@ -1,6 +1,6 @@
  <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/JaveriaRathore/JaveriaRathore/blob/main/github%20banner.png" width="100%" alt="Javeria Rathore - Aspiring Data Analyst"/>
+  <img src="https://github.com/JaveriaRathore/JaveriaRathore/blob/main/GitHub-banner.jpg" width="100%" alt="Javeria Rathore - Aspiring Data Analyst"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Javeria Rathore</h1>
