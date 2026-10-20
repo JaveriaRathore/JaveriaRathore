@@ -1,28 +1,107 @@
-![logo](https://github.com/JaveriaRathore/JaveriaRathore/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Javeria Rathore</h1>
-<h3 align="center">A passionate computer science undergraduate</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/11dc5577ce1953c197dcf004991782ef4cabb9557ef0881c003e2e6b8f54ae47/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6136646332366130386262313834633137366264343230643134393832396235">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javeriarathore&label=Profile%20views&color=0e75b6&style=flat" alt="javeriarathore" /> </p>
-
-- 🌱 I’m currently learning *Graphic designing, python*
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/javeria-rathore/](https://www.linkedin.com/in/javeria-rathore/)
-
-- 💬 Ask me about *C, C++, MS office*
-
-- 📫 How to reach me *jaweriyarathore@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/javeria rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javeria rathore" height="30" width="40" /></a>
+ <!-- Banner -->
+<p align="center">
+  <img src="https://github.com/JaveriaRathore/JaveriaRathore/blob/main/github%20banner.png" width="100%" alt="Javeria Rathore - Aspiring Data Analyst"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Javeria Rathore</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javeriarathore&show_icons=true&locale=en&layout=compact" alt="javeriarathore" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaveriaRathore&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javeriarathore&show_icons=true&locale=en" alt="javeriarathore" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javeriarathore&" alt="javeriarathore" /></p>
+### 👩‍💻 About Me
+
+I'm a Computer Science undergraduate interested in **Data Analytics, Business Intelligence, and data-driven decision-making**. I enjoy working with datasets, uncovering patterns, and transforming raw data into meaningful insights.
+
+- 🔍 Exploring datasets to discover trends and business insights
+- 🐍 Using Python for data cleaning, manipulation, and exploratory data analysis
+- 🗄️ Writing SQL queries to extract and analyze data
+- 📊 Building dashboards and reports using Power BI and Excel
+- 🌱 Continuously improving my analytical, technical, and problem-solving skills
+- 🎯 Working towards becoming a skilled Data Analyst
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Microsoft Excel" width="45" height="45"/>
+  </a>
+</p>
+
+**Core skills**
+- **Data Analysis:** Data cleaning, data transformation, exploratory data analysis (EDA)
+- **Programming:** Python, Pandas, NumPy
+- **Databases:** SQL, PostgreSQL
+- **Visualization:** Power BI, Excel dashboards, data visualization
+- **Other Tools:** Jupyter Notebook, Git, GitHub
+
+---
+
+### 📂 Featured Projects
+
+Here are some areas represented in my data analytics portfolio:
+
+- 📈 **Superstore Sales Analysis** — Exploring sales, profit, and business performance through data analysis and dashboards.
+- 🛒 **Online Retail Analysis** — Cleaning transaction data and analyzing revenue, customer behavior, and sales trends.
+- 🗄️ **SQL Business Analysis** — Answering business questions using SQL queries, joins, aggregations, and filtering.
+- 📊 **Power BI Dashboards** — Visualizing key performance indicators and turning business data into actionable insights.
+
+*Visit my repositories to explore the projects, datasets, analysis, and visualizations.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaveriaRathore&show_icons=true&theme=midnight-purple&hide_border=true" alt="Javeria's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaveriaRathore&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaveriaRathore&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/javeria-rathore/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jaweriyarathore@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning continuously. Exploring data. Finding insights. 📈</i>
+</p>
